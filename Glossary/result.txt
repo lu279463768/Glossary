@@ -1,0 +1,2 @@
+<blockquote>
+<a href="bag.html">bag</a> has <a href="book.html">book</a></blockquote>
